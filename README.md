@@ -1,13 +1,12 @@
-# MY PORTOFOLIO
 # Yudha Adi Putra - Data Portfolio
 
 Hi there! This documentation is like a quick snapshot of my project in the data field, showing off my skills and know-how in this area.
 
 ## Table of Contents
 
-1. [Python: Data Analysis and Machine Learning](#python-data-analysis-and-machine-learning)
-2. [Dashboard](#dashboard)
-3. [Completed Courses and Certifications](#completed-courses-and-certifications)
+1. [Python: Data Analysis and Machine Learning](#python-data-analysis-and-machine-learning) 🐍📊
+2. [Dashboard](#dashboard) 📈
+3. [Completed Courses and Certifications](#completed-courses-and-certifications) 🎓
 
 ---
 
