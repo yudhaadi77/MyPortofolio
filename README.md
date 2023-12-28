@@ -46,6 +46,6 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 - [Coursera - Machine Learning Specialization](#)
 - [Coursera - Machine Learning Specialization](#)
 
-[Add details and links to your completed courses and certifications]
+
 
 Feel free to explore my projects and connect with me on [LinkedIn](https://bit.ly/linkedinadiputra2) for more information!
