@@ -35,7 +35,7 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 
 ## Completed Courses and Certifications
 - [Rakamin Academy – Data Science: Machine Learning Specialization](#)
-- [Google – TensorFlow Developer Certification](#)
+- [Google – TensorFlow Developer Certification](https://drive.google.com/file/d/1InFieN9a7kWuPDfzZHGg1ycBreX5ijLp/view?usp=sharing)
 - [Bangkit Academy – Specializing in machine learning](#)
 - [Habis Keja - Data Science with Python](#)
 - [Coursera - Google Data Analytics](#)
