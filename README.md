@@ -1,6 +1,6 @@
-# Yudha Adi Putra - Data Portfolio
+# Data Science & Analyst Portofolio
 
-Hi there! This documentation is like a quick snapshot of my project in the data field, showing off my skills and know-how in this area.
+Hi there I'm yudha! This documentation is like a quick snapshot of my project in the data field, showing off my skills and know-how in this area.
 
 ## Table of Contents
 
